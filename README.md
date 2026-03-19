@@ -1,11 +1,11 @@
-# iris-flower-classification-ml : -
+# iris-flower-classification-ml : 
 Machine learning project for classifying Iris flower species using algorithms like Logistic Regression and Decision Tree. Includes data preprocessing, model training, accuracy comparison, and visualization using Python and scikit-learn.
 # Iris Flower Classification using Machine Learning
 
-## 📌 Project Description : -
+## 📌 Project Description : 
 This project builds a machine learning model to classify Iris flowers into three species: Setosa, Versicolor, and Virginica. The project compares different classification algorithms to evaluate their accuracy.
 
-## 🎯 Objectives:-
+## 🎯 Objectives:
 - Understand classification algorithms
 - Train and evaluate ML models
 - Compare performance of multiple models
@@ -13,7 +13,7 @@ This project builds a machine learning model to classify Iris flowers into three
 ## 📊 Dataset:-
 Iris Dataset (built into scikit-learn)
 
-Features include:-
+Features include:--
 - Sepal length
 - Sepal width
 - Petal length
@@ -25,11 +25,11 @@ Features include:-
 - Matplotlib
 - Google Colab
 
-## ⚙️ Models Used :-
+## ⚙️ Models Used :--
 - Logistic Regression
 - Decision Tree
 
-## 📈 Results :-
+## 📈 Results :--
 Both models achieve high accuracy on the Iris dataset.
 
 ## 🚀 Future Improvements :-
@@ -37,5 +37,5 @@ Both models achieve high accuracy on the Iris dataset.
 - Use cross-validation
 - Build interactive visualization
 
-## ▶ How to Run :-
+## ▶ How to Run :
 Open the notebook in Google Colab and run all cells.
