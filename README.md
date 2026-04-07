@@ -25,7 +25,7 @@ Features include
 - Matplotlib
 - Google Colab
 
-## ⚙️ Models Used :--
+## ⚙️ Models Used :-
 - Logistic Regression
 - Decision Tree
 
