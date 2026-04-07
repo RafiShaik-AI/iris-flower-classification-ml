@@ -13,7 +13,7 @@ This project builds a machine learning model to classify Iris flowers into three
 ## 📊 Dataset:-
 Iris Dataset (built into scikit-learn) 
 
-Features include:-
+Features include:
 - Sepal length
 - Sepal width
 - Petal length
