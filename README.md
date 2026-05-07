@@ -19,7 +19,7 @@ Features include
 - Petal length
 - Petal width
 
-## 🛠 Technologies Used :-
+## 🛠 Technologies Used :--
 - Python
 - scikit-learn
 - Matplotlib
