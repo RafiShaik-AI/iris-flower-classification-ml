@@ -10,7 +10,7 @@ This project builds a machine learning model to classify Iris flowers into three
 - Train and evaluate ML models
 - Compare performance of multiple models
 
-## 📊 Dataset: -
+## 📊 Dataset:-
 Iris Dataset (built into scikit-learn) 
 
 Features include
