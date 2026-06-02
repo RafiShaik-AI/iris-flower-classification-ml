@@ -32,7 +32,7 @@ Features include
 ## 📈 Results :--
 Both models achieve high accuracy on the Iris dataset.
 
-## 🚀 Future Improvements :--
+## 🚀 Future Improvements :-
 - Add more classification algorithms
 - Use cross-validation
 - Build interactive visualization
