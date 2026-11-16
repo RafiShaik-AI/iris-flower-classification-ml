@@ -1,4 +1,4 @@
-# iris-flower-classification-ml:-    12434567890-qwertyuio
+# iris-flower-classification-ml:-    12434567890-qwertyui
 
 Machine learning project for classifying Iris flower species using algorithms like Logistic Regression and Decision Tree. Includes data preprocessing, model training, accuracy comparison, and visualization using Python and scikit-learn.
 # Iris Flower Classification using Machine Learning
